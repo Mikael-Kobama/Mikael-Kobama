@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje Busco novas oportunidades para me Desenvolver
-- 🌱 Atualmente aprendendo analise de dados
+- 🌱 Atualmente aprendendo Desenvolvimento em JavaScript
 - 📫 Contate-me no email: kobama.mikael@gmail.com
 - 🙂 Pronouns: ele/dele
 
