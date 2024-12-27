@@ -1,7 +1,7 @@
 # Olá, eu sou o Mikael Kobama 👋
 
 🔭 **Atualmente buscando novas oportunidades para me desenvolver**  
-🌱 **Atualmente aprendendo Desenvolvimento em JavaScript, com foco em frameworks como React e Node.js**  
+🌱 **Atualmente aprendendo Desenvolvimento em Web, com foco em frameworks como React e Node.js**  
 📫 **Contate-me no email**: [kobama.mikael@gmail.com](mailto:kobama.mikael@gmail.com)  
 🙂 **Pronouns**: Ele/Dele
 
@@ -34,9 +34,9 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 ### 🚀 Experiência e Projetos
 
 **Projetos em Destaque**:
-- **[Nome do Projeto 1](link-do-projeto)**: Um sistema web para gerenciamento de tarefas com **React** e **Node.js**.
-- **[Nome do Projeto 2](link-do-projeto)**: Aplicativo para **monitoramento de dados** com **Python** e **API RESTful**.
-- **[Nome do Projeto 3](link-do-projeto)**: Ferramenta de análise de performance de sites, utilizando **JavaScript**, **CSS** e **Node.js**.
+- **[Navbar React](https://github.com/Mikael-Kobama/navbar-app-react)**: Um sistema web com **React** e **Node.js**.
+- **[Two-Sided-Scroll-Animation](https://github.com/Mikael-Kobama/Two-Sided-Scroll-Animation)**: Aplicação Web para Modificaão automatica do Scroll**.
+- **[Blog-with-Fetch-API](https://github.com/Mikael-Kobama/Blog-with-Fetch-API)**: Ferramenta de teste utilizando o Fetch Api de sites, utilizando **JavaScript**, **CSS** .
 
 ---
 
@@ -65,7 +65,7 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 - 🏆 **Contribuições para projetos de código aberto** no GitHub, melhorando funcionalidades e corrigindo bugs.
 - 🎓 **Certificação em Metodologia Scrum** pela CertiProof.
 - 🌍 **Participação em Bootcamps** focados em abranger meu conhecimento.
-- 📚 **Leitura contínua sobre novas tendências de desenvolvimento**, como Inteligência Artificial e Computação em Nuvem.
+- 📚 **Leitura contínua sobre novas tendências de desenvolvimento**.
 
 ---
 
@@ -82,7 +82,7 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 
 Atualmente, estou me aprofundando em:
 
-- **JavaScript Avançado e Frameworks como React e Node.js**
+- **JavaScript Medio e Frameworks como React e Node.js**
 - **Desenvolvimento Full Stack e Arquitetura de Software**
 - **Práticas de DevOps e Integração Contínua (CI/CD)**
 
@@ -98,6 +98,5 @@ Atualmente, estou me aprofundando em:
 
 🔗 **Links Úteis**
 
-- [Portfólio/Blog (Se houver)](link)
 - [Repositórios no GitHub](https://github.com/mikaelkobama)
 - [LinkedIn](https://www.linkedin.com/in/mikael-kobama-433b76212)
