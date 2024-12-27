@@ -42,7 +42,8 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 
 ### 📈 Estatísticas do GitHub
 
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelkobama&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dracula)
+![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dracula)
+
 
 ---
 
