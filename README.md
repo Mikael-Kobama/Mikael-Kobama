@@ -45,6 +45,13 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 ![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dracula)
 
 
+#### 📅 Gráfico de Commits por Semana
+
+Este gráfico mostra os commits feitos ao longo das últimas 4 semanas.
+
+![Commits por Semana](https://quickchart.io/chart?c={type:'line',data:{labels:['Semana 1','Semana 2','Semana 3','Semana 4'],datasets:[{label:'Commits por Semana',data:[30,50,70,90],borderColor:'rgba(75, 192, 192, 1)',fill:false}]},options:{scales:{y:{beginAtZero:true}}}})
+
+
 ---
 
 ### 💬 Conecte-se Comigo
