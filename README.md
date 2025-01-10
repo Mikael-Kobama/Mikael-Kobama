@@ -1,63 +1,74 @@
 # Olá, eu sou o Mikael Kobama 👋
 
-🔭 **Atualmente buscando novas oportunidades para me desenvolver**  
-🌱 **Atualmente aprendendo Desenvolvimento em Web, com foco em frameworks como React e Node.js**  
-📫 **Contate-me no email**: [kobama.mikael@gmail.com](mailto:kobama.mikael@gmail.com)  
-🙂 **Pronouns**: Ele/Dele
-
----
-
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções que impactam positivamente as pessoas e os negócios. Com uma forte base em **JavaScript** e suas tecnologias relacionadas, estou sempre em busca de novos desafios e aprendizados. Meu foco está em **Desenvolvimento Full Stack**, e busco constantemente aprimorar minhas habilidades em **front-end**, **back-end** e busco me aprimorar em **devOps**.
+Sou **Mikael Kobama**, recém-formado em **Análise de Sistemas** e atualmente trabalhando como **Desenvolvedor Web Jr.**. Estou focado em me tornar um **Desenvolvedor Full Stack**, e tenho buscado aprofundar meus conhecimentos em tecnologias como **React**, **Node.js**, **API RESTful** e **banco de dados não relacional** (MongoDB).
 
-Atualmente, estou me aprofundando no uso de frameworks como **React**, **Node.js** , além de explorar temas como **arquitetura de sistemas**, **API RESTful** e **Banco de Dados**.
-
-Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de alto impacto, enquanto continuo expandindo meu conhecimento e experiência.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
----
-
-### 🚀 Experiência e Projetos
-
-**Projetos em Destaque**:
-- **[Navbar React](https://github.com/Mikael-Kobama/navbar-app-react)**: Um sistema web com **React** e **Node.js**.
-- **[Two-Sided-Scroll-Animation](https://github.com/Mikael-Kobama/Two-Sided-Scroll-Animation)**: Aplicação Web para Modificaão automatica do Scroll**.
-- **[Blog-with-Fetch-API](https://github.com/Mikael-Kobama/Blog-with-Fetch-API)**: Ferramenta de teste utilizando o Fetch Api de sites, utilizando **JavaScript**, **CSS** .
-
----
-
-### 📈 Estatísticas do GitHub
-
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dracula)
-
+Com uma forte base em **JavaScript** e uma paixão por criar soluções eficientes, estou sempre em busca de novos desafios e aprendizados. Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades em desenvolvimento web e software, e fazer a diferença no mundo da tecnologia.
 
 ---
 
 ### 💬 Conecte-se Comigo
 
-<a href="https://www.instagram.com/soukobama" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:kobama.mikael@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/mikael-kobama-433b76212" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div align="left" style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.instagram.com/soukobama" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:kobama.mikael@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mikael-kobama-433b76212" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" style="margin-right: 15px;">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kobama&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+### 🚀 Experiência e Projetos
+
+**Projetos em Destaque**:
+
+- **[Navbar React](https://github.com/Mikael-Kobama/navbar-app-react)**: Um sistema web com **React** e **Node.js**.
+- **[Two-Sided-Scroll-Animation](https://github.com/Mikael-Kobama/Two-Sided-Scroll-Animation)**: Aplicação Web para modificação automática do **Scroll**.
+- **[Blog-with-Fetch-API](https://github.com/Mikael-Kobama/Blog-with-Fetch-API)**: Ferramenta de teste utilizando o **Fetch API** com **JavaScript** e **CSS**.
 
 ---
 
@@ -65,7 +76,7 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 
 - 🏆 **Contribuições para projetos de código aberto** no GitHub, melhorando funcionalidades e corrigindo bugs.
 - 🎓 **Certificação em Metodologia Scrum** pela CertiProof.
-- 🌍 **Participação em Bootcamps** focados em abranger meu conhecimento.
+- 🌍 **Participação em Bootcamps** focados em ampliação do meu conhecimento.
 - 📚 **Leitura contínua sobre novas tendências de desenvolvimento**.
 
 ---
@@ -73,7 +84,7 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 ### 🔧 Ferramentas e Tecnologias
 
 - **Linguagens**: JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas**: React, Node.js, Tailwind, Bootstrap
+- **Frameworks e Bibliotecas**: React, Node.js, Bootstrap, Tailwind
 - **Banco de Dados**: MongoDB
 - **Ferramentas**: Git, GitHub, VS Code
 
@@ -83,7 +94,7 @@ Meu objetivo é colaborar em projetos inovadores, com ênfase em resultados de a
 
 Atualmente, estou me aprofundando em:
 
-- **JavaScript Medio e Frameworks como React e Node.js**
+- **JavaScript Médio e Frameworks como React e Node.js**
 - **Desenvolvimento Full Stack e Arquitetura de Software**
 - **Práticas de DevOps e Integração Contínua (CI/CD)**
 
