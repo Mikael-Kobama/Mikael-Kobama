@@ -11,9 +11,9 @@ Com uma forte base em **JavaScript** e uma paixão por criar soluções eficient
 ### 💬 Conecte-se Comigo
 
 <div align="left" style="display: flex; justify-content: center; gap: 15px;">
-  <a href="https://www.instagram.com/soukobama" target="_blank">
+<!--   <a href="https://www.instagram.com/soukobama" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  </a> -->
   <a href="mailto:kobama.mikael@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
