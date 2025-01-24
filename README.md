@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Mikael Kobama**, recém-formado em **Análise de Sistemas** e atualmente trabalhando como **Desenvolvedor Web Jr.**. Estou focado em me tornar um **Desenvolvedor Full Stack**, e tenho buscado aprofundar meus conhecimentos em tecnologias como **React**, **Node.js**, **API RESTful** e **banco de dados não relacional** (MongoDB).
+Sou **Mikael Kobama**, recém-formado em **Sistemas da informação** e atualmente trabalhando como **Desenvolvedor Web Jr.**. Estou focado em me tornar um **Desenvolvedor Full Stack**, e tenho buscado aprofundar meus conhecimentos em tecnologias como **React**, **Node.js**, **API RESTful** e **banco de dados não relacional** (MongoDB).
 
 Com uma forte base em **JavaScript** e uma paixão por criar soluções eficientes, estou sempre em busca de novos desafios e aprendizados. Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades em desenvolvimento web e software, e fazer a diferença no mundo da tecnologia.
 
