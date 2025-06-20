@@ -1,114 +1,95 @@
-# Olá, eu sou o Mikael Kobama 👋
+<h1 align="center">Olá! Sou Mikael Kobama 👋</h1>
 
-### 👨‍💻 Sobre Mim
-
-Sou **Mikael Kobama**, recém-formado em **Sistemas da informação** e atualmente trabalhando como **Desenvolvedor Web Jr.**. Estou focado em me tornar um **Desenvolvedor Full Stack**, e tenho buscado aprofundar meus conhecimentos em tecnologias como **React**, **Node.js**, **API RESTful** e **banco de dados não relacional** (MongoDB).
-
-Com uma forte base em **JavaScript** e uma paixão por criar soluções eficientes, estou sempre em busca de novos desafios e aprendizados. Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades em desenvolvimento web e software, e fazer a diferença no mundo da tecnologia.
-
----
-
-### 💬 Conecte-se Comigo
-
-<div align="left" style="display: flex; justify-content: center; gap: 15px;">
-<!--   <a href="https://www.instagram.com/soukobama" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a> -->
-  <a href="mailto:kobama.mikael@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mikael-kobama-433b76212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+<p align="center">
+Desenvolvedor Full Stack Júnior com foco em soluções modernas e escaláveis.<br>
+Java | React | Node.js | MongoDB | PostgreSQL | TypeScript
+</p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 👨‍💻 Sobre mim
+
+Sou graduado em **Sistemas da Informação** e atualmente atuo como **Desenvolvedor Web Júnior**. Tenho como principal objetivo me especializar em desenvolvimento **Full Stack**, combinando práticas de boas interfaces com back-ends eficientes e seguros.
+
+Tenho experiência com:
+- Criação de interfaces em React e Bootstrap/Tailwind
+- APIs REST com Node.js e Spring Boot
+- Banco de dados SQL (PostgreSQL) e NoSQL (MongoDB)
+- Integração com APIs externas e autenticação via JWT
+
+Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvolvedor.
+
+---
+
+## 📫 Conecte-se comigo
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kobama.mikael@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-kobama-433b76212)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" style="margin-right: 15px;">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 📂 Projetos em Destaque
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kobama&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Navbar React](https://github.com/Mikael-Kobama/navbar-app-react) | Menu de navegação com React, foco em responsividade. | React.js, Tailwind |
+| [Scroll Animation](https://github.com/Mikael-Kobama/Two-Sided-Scroll-Animation) | Efeito de scroll dinâmico com eventos JS. | HTML, CSS, JavaScript |
+| [Blog API](https://github.com/Mikael-Kobama/Blog-with-Fetch-API) | Blog usando consumo de API com Fetch. | JavaScript, CSS |
 
-### 🚀 Experiência e Projetos
-
-**Projetos em Destaque**:
-
-- **[Navbar React](https://github.com/Mikael-Kobama/navbar-app-react)**: Um sistema web com **React** e **Node.js**.
-- **[Two-Sided-Scroll-Animation](https://github.com/Mikael-Kobama/Two-Sided-Scroll-Animation)**: Aplicação Web para modificação automática do **Scroll**.
-- **[Blog-with-Fetch-API](https://github.com/Mikael-Kobama/Blog-with-Fetch-API)**: Ferramenta de teste utilizando o **Fetch API** com **JavaScript** e **CSS**.
+> Outros projetos em: [github.com/Mikael-Kobama](https://github.com/Mikael-Kobama)
 
 ---
 
-### 🌍 Minhas Conquistas
+## 🏆 Conquistas & Formação
 
-- 🏆 **Contribuições para projetos de código aberto** no GitHub, melhorando funcionalidades e corrigindo bugs.
-- 🎓 **Certificação em Metodologia Scrum** pela CertiProof.
-- 🌍 **Participação em Bootcamps** focados em ampliação do meu conhecimento.
-- 📚 **Leitura contínua sobre novas tendências de desenvolvimento**.
-
----
-
-### 🔧 Ferramentas e Tecnologias
-
-- **Linguagens**: JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas**: React, Node.js, Bootstrap, Tailwind
-- **Banco de Dados**: MongoDB
-- **Ferramentas**: Git, GitHub, VS Code
+- 🎓 Certificado em **Scrum Fundamentals** – CertiProof  
+- 🚀 Participante dos programas **Oracle Next Education (Data Science)** e **Escola da Nuvem (AWS)**  
+- 📘 Participação ativa em bootcamps e desafios de programação  
+- 💡 Contribuições em projetos open-source
 
 ---
 
-### 📚 Aprendizado Contínuo
+## 📈 Estatísticas do GitHub
 
-Atualmente, estou me aprofundando em:
-
-- **JavaScript Médio e Frameworks como React e Node.js**
-- **Desenvolvimento Full Stack e Arquitetura de Software**
-- **Práticas de DevOps e Integração Contínua (CI/CD)**
-
----
-
-### ⚡ Curiosidades
-
-- Sou apaixonado por resolver problemas através da tecnologia.
-- Gosto de trabalhar em projetos colaborativos e aprender com as experiências dos outros.
-- Acredito que uma boa comunicação é essencial para um trabalho em equipe eficiente e para a criação de soluções inovadoras.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&theme=default&show_icons=true&hide_border=false&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kobama&layout=compact&hide_border=false" />
+</p>
 
 ---
 
-🔗 **Links Úteis**
+## 🚀 Aprendizados Atuais
 
-- [Repositórios no GitHub](https://github.com/mikaelkobama)
-- [LinkedIn](https://www.linkedin.com/in/mikael-kobama-433b76212)
+- Desenvolvimento com **Java + Spring Boot**
+- Práticas de integração contínua (CI/CD)
+- Arquitetura de software com foco em escalabilidade
+- Boas práticas de testes e documentação
+
+---
+
+## ⚡ Curiosidades
+
+- Gosto de trabalhar em projetos colaborativos e com propósito
+- Acredito na tecnologia como meio de transformação social
+- Busco sempre unir técnica, empatia e foco no usuário final
+
+---
+
+🔗 **Explore meu trabalho completo em:** [github.com/Mikael-Kobama](https://github.com/Mikael-Kobama)
