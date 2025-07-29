@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedor Full Stack Júnior com foco em soluções modernas e escaláveis.<br>
-Java | React | Node.js | MongoDB | PostgreSQL | TypeScript
+Java | React | Node.js | MongoDB | PostgreSQL | TypeScript | Python | AWS | Docker
 </p>
 
 ---
@@ -14,7 +14,7 @@ Sou graduado em **Sistemas da Informação** e atualmente atuo como **Desenvolve
 Tenho experiência com:
 - Criação de interfaces em React e Bootstrap/Tailwind
 - APIs REST com Node.js e Spring Boot
-- Banco de dados SQL (PostgreSQL) e NoSQL (MongoDB)
+- Banco de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB)
 - Integração com APIs externas e autenticação via JWT
 
 Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvolvedor.
@@ -60,7 +60,8 @@ Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvo
 ## 🏆 Conquistas & Formação
 
 - 🎓 Certificado em **Scrum Fundamentals** – CertiProof  
-- 🚀 Participante dos programas **Oracle Next Education (Data Science)** e **Escola da Nuvem (AWS)**  
+- 🎓 Certificado em **Cloud Practitioner** – AWS 
+- 🚀 Participante dos programas **Oracle Next Education (Data Science)
 - 📘 Participação ativa em bootcamps e desafios de programação  
 - 💡 Contribuições em projetos open-source
 
