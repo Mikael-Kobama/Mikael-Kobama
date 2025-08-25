@@ -9,13 +9,15 @@
 ## 👨‍💻 Sobre mim
 
 Sou graduado em **Sistemas da Informação** e atualmente atuo como **Desenvolvedor Web Júnior**.  
-Tenho como principal objetivo me especializar em desenvolvimento **Full Stack**, combinando práticas de boas interfaces com back-ends eficientes e seguros.
+Meu objetivo é me especializar em desenvolvimento **Full Stack**, combinando práticas de boas interfaces com back-ends eficientes e seguros.
 
 Tenho experiência com:
 - Criação de interfaces em React e Bootstrap/Tailwind  
 - APIs REST com Node.js e Spring Boot  
 - Banco de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB)  
 - Integração com APIs externas e autenticação via JWT  
+
+📎 Confira também meu portfólio: [mikaelkobama.dev](https://seu-portfolio-link.com)  
 
 Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvolvedor.
 
@@ -36,6 +38,9 @@ Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvo
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Tests-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -64,16 +69,9 @@ Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvo
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikael-Kobama&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kobama&layout=compact&theme=tokyonight&hide_border=false" width="48%"/>
 </p>
-
----
-
-## 🐍 Minhas Contribuições
-*(opcional, ativa via GitHub Actions)*  
-
-![Snake animation](https://github.com/Mikael-Kobama/Mikael-Kobama/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
