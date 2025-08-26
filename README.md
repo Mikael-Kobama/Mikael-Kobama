@@ -48,11 +48,14 @@ Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvo
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Navbar React](https://github.com/Mikael-Kobama/navbar-app-react) | Menu de navegação com React, foco em responsividade. | React.js, Tailwind |
-| [Scroll Animation](https://github.com/Mikael-Kobama/Two-Sided-Scroll-Animation) | Efeito de scroll dinâmico com eventos JS. | HTML, CSS, JavaScript |
-| [Blog API](https://github.com/Mikael-Kobama/Blog-with-Fetch-API) | Blog usando consumo de API com Fetch. | JavaScript, CSS |
+| [Email Service Backend](https://github.com/Mikael-Kobama/email-service-backend) | Serviço backend para envio e gerenciamento de e-mails. | Node.js, Express, Nodemailer, TypeScript |
+| [Auth API](https://github.com/Mikael-Kobama/auth-api) | API de autenticação com foco em segurança e boas práticas. | Node.js, Express, JWT, TypeScript |
+| [Winning Website](https://github.com/Mikael-Kobama/winning-website) | Website interativo com foco em design moderno e responsividade. | HTML, CSS, JavaScript |
+| [JWT](https://github.com/Mikael-Kobama/JWT) | Implementação de autenticação baseada em JSON Web Token. | Node.js, Express, JWT, TypeScript |
+| [Shortner URL](https://github.com/Mikael-Kobama/shortner-url) | Encurtador de links com backend em TypeScript e MongoDB. | Node.js, TypeScript, MongoDB, Docker |
 
 > Outros projetos em: [github.com/Mikael-Kobama](https://github.com/Mikael-Kobama)
+
 
 ---
 
