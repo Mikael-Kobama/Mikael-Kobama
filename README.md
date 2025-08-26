@@ -17,7 +17,7 @@ Tenho experiência com:
 - Banco de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB)  
 - Integração com APIs externas e autenticação via JWT  
 
-📎 Confira também meu portfólio: [mikaelkobama.dev](https://seu-portfolio-link.com)  
+📎 Confira também meu portfólio: [mikaelkobama.dev]([https://seu-portfolio-link.com](https://portifolio-mikael-1lln.vercel.app/))  
 
 Estou sempre aprendendo e colaborando com a comunidade para evoluir como desenvolvedor.
 
